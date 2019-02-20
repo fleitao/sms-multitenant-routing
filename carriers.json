@@ -1,0 +1,19 @@
+{
+    "portugal": {
+        "carrier": "<<carrier1_name>>",
+        "acctsid": "restcomm_accountsid_for_carrier1",
+        "accttoken": "restcomm_token_for_carrier1"
+    },
+    
+    "uk": { 
+        "carrier": "carrier2_name", 
+        "acctsid": "restcomm_accountsid_for_carrier2", 
+        "accttoken": "restcomm_token_for_carrier2" 
+    },
+    
+    "germany": { 
+        "carrier": "carrier3_name", 
+        "acctsid": "restcomm_accountsid_for_carrier3", 
+        "accttoken": "restcomm_token_for_carrier3" 
+    }
+}
